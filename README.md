@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**scrivocodice/scrivocodice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Benvenuto sul nostro profilo GitHub!
 
-Here are some ideas to get you started:
+Questo è Scrivocodice: impariamo, costruiamo, condividiamo. Open source, open mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Il nostro sito: [https://scrivocodice.it](https://scrivocodice.it)
+Il nostro canale Youtube: [https://www.youtube.com/@scrivocodice](https://www.youtube.com/@scrivocodice)
+I nostri corsi su Udemy: [https://www.udemy.com/user/scrivocodice/](https://www.udemy.com/user/scrivocodice/)
+Il nostro canale TikTok: [https://www.tiktok.com/@scrivocodice](https://www.tiktok.com/@scrivocodice)
+
+## Contatti
+
+- GitHub: [Scrivocodice](https://github.com/scrivocodice)
+- Linkedin: [Scrivocodice](https://www.linkedin.com/in/scrivo-codice-640796220)
+- Facebook: [Scrivocodice](https://www.facebook.com/people/Scrivocodiceit/61559544457789/)
